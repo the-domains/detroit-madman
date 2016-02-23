@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Comic Kulture]]></title>
         <description><![CDATA[Comic Kulture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/detroit-madman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 18:15:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 18:34:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/detroit-madman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92db575a-7e07-477f-85ce-a5335731c824.JPG">]]></description>
+            <link>https://thegrid.ai/detroit-madman/95b07812-641d-42c2-a48c-fab018571d48/index.html</link>
+            <guid isPermaLink="false">95b07812-641d-42c2-a48c-fab018571d48</guid>
+            <pubDate>Tue, 23 Feb 2016 18:33:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62cc9e61-514d-4275-8851-03bad45e6cc8.jpg">]]></description>
-            <link>undefineda07ea3b5-bb1c-4e63-a988-832b9372ae1a/index.html</link>
+            <link>https://thegrid.ai/detroit-madman/a07ea3b5-bb1c-4e63-a988-832b9372ae1a/index.html</link>
             <guid isPermaLink="false">a07ea3b5-bb1c-4e63-a988-832b9372ae1a</guid>
             <pubDate>Tue, 23 Feb 2016 18:14:29 GMT</pubDate>
         </item>
