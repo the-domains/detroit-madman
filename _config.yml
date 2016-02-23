@@ -1,6 +1,6 @@
 name: Detroit Madman
 favicon: null
-layout_spectrum: 0.45923
+layout_spectrum: 0.95034
 typography_spectrum: 0.60119
 title: Comic Kulture
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
